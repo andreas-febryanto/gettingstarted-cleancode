@@ -156,11 +156,7 @@ Isn't it fascinating that most of the opinions about clean code from the experts
 
 > These are some of the main ways unclean code gets written. Long story short, it's about people.
 
-
-
 ## Why It's hard to learn clean code
-
-
 
 ### Reason I - Humans are complex
 
@@ -168,8 +164,44 @@ Clean code has been hard to describe, learn, and teach because it aims to bring 
 
 The human brain is still very much a big mystery to us. For example, we don't understand jack about how the brain processes **visual information**(AllenInstitute.org).
 
-
-
 ### Reason 2 - It's hard to deconstruct human psychology
 
+While we can apply *reductionism* to computing and engineering, trying to do the same with humans is hard(and almost always wrong). This is likely why formal education has chosen to avoid attempting to teach us the following topics:
+
+- How to name things
+
+- How to organize code
+
+- How to decide on and enforce coding convention
+
+- How to detect code smells
+
+- How to avoid anti-patterns
+
+Designers learn the basics of human psychology, but traditionally, *software developers* don't. 
+
 ### Reason 3 - Trade skills are acquired through mentorship
+
+They excel at teaching us scientific and theoretical aspects of computer science; but that's because they consider modern programming to be a **science** or engineering discipline, not a **trade**
+
+The practical **tricks of the trade**; the things you'll spend 90% of your time doing in the real-world, like testing, refactoring, and design, are passed down to us. These learnings are passed down in apprenticeships, online training, co-ops, or junior development jobs with access to mentors and more experienced developers.
+
+
+
+## The tree pillars of clean code
+
+The Pillars of CLean Code is a framework I developed to illuminate each component involved in learning to write clean code. It breaks into three parts:
+
+1. Developer mindset
+   
+   Professionalism, growth from failure, and design thinking.
+
+2. Coding conventions
+   
+   Developing your own set of principled coding conventions to produce the highest quality software possible using industry standards, tools, approaches, and methods.
+
+3. SKills & knowledge
+   
+   Become wise. Refine your preferred coding conventions from your skills(new languages, tooling, frameworks) and knowledge(design patterns, principles, approaches, experience, and judgment).
+   
+   
